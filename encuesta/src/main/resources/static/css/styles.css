@@ -1,0 +1,60 @@
+body {
+	display: flex;
+	justify-content: center;
+	margin-top: 60px;
+}
+
+form {
+	margin-top: 30px;
+}
+
+.form-row {
+	display: flex;
+	margin-bottom: 10px;
+}
+
+label,
+textarea {
+	margin-left: 30px;
+}
+
+.form-row label {
+	flex: 0 0 250px;
+	margin-right: 5px;
+	border: solid white;
+	margin-left: 30px;
+}
+
+#opcion {
+	width: 170px;
+	border: solid black;
+}
+
+#fname,
+#desc {
+	border: solid black;
+}
+
+.container {
+	display: inline-block;
+	width: 820px;
+	height: 600px;
+	border: solid black;
+	font-size: 30px;
+	
+}
+
+#btn {
+	background-color: #76A5AF;
+	color: white;
+	margin-left: 390px;
+	width: 70px;
+	height: 30px;
+}
+.container p {
+   	margin-left: 30px;
+   
+}
+
+
+

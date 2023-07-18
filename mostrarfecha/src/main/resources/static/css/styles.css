@@ -1,0 +1,26 @@
+a {
+	color: blue;
+}
+#time{
+	color: green;
+	text-align: center;
+	margin-top: 15%;
+}
+#date{
+	color: blue;
+	text-align: center;
+	margin-top: 15%;
+}
+#left{
+	display:inline-block;
+	font-size: 20px;
+	margin-left: 100px;
+	margin-top: 10%;
+	
+}
+#rigth{
+	display:inline-block;
+	font-size: 20px;
+	margin-left: 100px;
+	margin-top: 10%;
+}
