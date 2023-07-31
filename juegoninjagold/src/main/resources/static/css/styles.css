@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    border-color: black;
+	font-family: 'Balsamiq Sans', cursive;
+}
+
+.container {
+	width: 90rem;
+	height: 47rem;
+	margin: 3rem auto;
+}
+
+.box{
+	display: inline-block;
+	margin-top: 50px;
+	width: 200px;
+	height: 120px;
+	border: black solid;
+	text-align: center;
+}
+.output{
+	display: inline-block;
+	margin-top: 50px;
+	width: 800px;
+	height: 200px;
+	border: black solid;
+}
+form{
+	margin-top: 20px;
+}
+h2, textarea{
+	margin-top: 20px;
+}
+#counter{
+	width: 60px;
+	height: 30px;
+	font-size: 1.2rem;
+}
+
+
+
+
+
